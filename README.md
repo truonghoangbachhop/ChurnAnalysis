@@ -1,4 +1,4 @@
-# Marketing_RFM_Analysis_Python
+# Marketing_RFM Analysis and Segmentation Evaluation_Python
 
 ## Executive Summary
 
